@@ -2,8 +2,8 @@
 
 ## Collaboratori
 
-- Matteo Kovacic — [GitHub](https://github.com/MatteoKova)
-- Federico Bagnalasta — [GitHub](https://github.com/FedericoBagnalasta)
+- Matteo — [GitHub](https://github.com/MatteoKova)
+- Federico — [GitHub](https://github.com/FedericoBagnalasta)
 
 ## Tema Parte A
 
