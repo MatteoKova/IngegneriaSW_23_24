@@ -9,7 +9,7 @@
 
 Sviluppare un sistema software per supportare lo scambio, senza passaggi di denaro, di prestazioni d’opera tra organizzazioni e fruitori, garantendo organizzazione, tracciabilità e gestione delle categorie di attività coinvolte.
 
-## Cosa ho fatto
+## Cosa è stato fatto
 
 - analizzato il problema e definito i requisiti del sistema per la Parte A;
 - progettato le funzionalità principali per configuratore e fruitore;
